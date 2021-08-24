@@ -8,5 +8,9 @@ namespace ClassLibrary1
         {
             return x + y;
         }
+        public static double sub(double x, double y)
+        {
+            return x - y;
+        }
     }
 }
