@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Brijesh</Authors>
+    <PackageId>BrijeshClassLibrary</PackageId>
+    <Description>Helpful Method</Description>
+    <RepositoryUrl>https://github.com/brijeshkalathiya/nuget</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/brijeshkalathiya/nuget</PackageProjectUrl>
   </PropertyGroup>
 
 </Project>
