@@ -12,9 +12,5 @@ namespace ClassLibrary1
         {
             return x - y;
         }
-        public static double mul(double x, double y)
-        {
-            return x * y;
-        }
     }
 }
