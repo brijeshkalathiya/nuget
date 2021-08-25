@@ -16,5 +16,9 @@ namespace ClassLibrary1
         {
             return x * y;
         }
+        public static double div(double x, double y)
+        {
+            return x / y;
+        }
     }
 }
